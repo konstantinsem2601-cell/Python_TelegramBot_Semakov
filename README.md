@@ -1,5 +1,5 @@
 # Python_TelegramBot_Semakov
-Проект: Telegram-бот с функцией календаря
+Проект: Telegram-бот с функцией календаря\n
 Константин Семаков
 konstantinsem2601-cell
 konstantinsem2601@gmail.com
